@@ -70,15 +70,15 @@ npm start
 
 The frontend server will run on `http://localhost:3000`.
 
-### Docker Setup
+### Docker Setup (Optional)
 To run the application using Docker, use the provided `docker-compose.yml` file. Ensure Docker and Docker Compose are installed on your system.
 
 1. Build and start the Docker containers:
-```
+    ```
     docker-compose up --build
     ```
 
-4. Access the frontend application at `http://localhost:3000`.
+2. Access the frontend application at `http://localhost:3000`.
 
 ## API Endpoints
 
